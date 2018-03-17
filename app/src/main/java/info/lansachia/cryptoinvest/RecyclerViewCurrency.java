@@ -33,7 +33,7 @@ import java.util.List;
  * @author  Landry Achia
  */
 
-public class RCurrency extends Fragment {
+public class RecyclerViewCurrency extends Fragment {
     /**
      * UI reference to recycler view
      */
@@ -62,7 +62,7 @@ public class RCurrency extends Fragment {
     /**
      * TAG for debugging purpose
      */
-    public static final String TAG = "RCurrency";
+    public static final String TAG = "RecyclerViewCurrency";
 
     /**
      * request queue for querying of database
@@ -83,7 +83,7 @@ public class RCurrency extends Fragment {
     /**
      * required blank constructor
      */
-    public RCurrency() {
+    public RecyclerViewCurrency() {
 
     }
 

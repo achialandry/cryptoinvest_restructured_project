@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
         FragmentManager fragmentManager = getSupportFragmentManager();
         Fragment fragment = fragmentManager.findFragmentById(R.id.currency_main_act);
         if (fragment == null) {
-            fragment = new RCurrency();
+            fragment = new RecyclerViewCurrency();
 
             fragmentManager.beginTransaction()
                     .replace(R.id.currency_main_act, fragment)
