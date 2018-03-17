@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "314684672657",
+    "firebase_url": "https://crypto-invest-cff6e.firebaseio.com",
+    "project_id": "crypto-invest-cff6e",
+    "storage_bucket": "crypto-invest-cff6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314684672657:android:60146056412f5b24",
+        "android_client_info": {
+          "package_name": "info.lansachia.cryptoinvest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314684672657-53u0uvc7ghf4s6kht06pk6hplq363qk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaE6BY7OgzGG-qCfGDXfBe5M0MT1dxAj4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

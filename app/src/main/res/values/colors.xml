@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="notification_setting_background">#3b4148</color>
+    <color name="notification_fragment_text">#ffffff</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_register">#26ae90</color>
+    <color name="text_register">#eceef1</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="background_home_page_currency">#eceef1</color>
+    <color name="color_of_bad_percent">#d8000e</color>
+    <color name="color_of_good_percent">#26ae90</color>
+    <color name="currency_track_name">#ff6861</color>
+    <color name="btn_signup_txt">#eceef1</color>
+    <color name="links_to_register">#33333e</color>
+    <color name="divider">#727272</color>
+    <color name="lbl_name">#33333e</color>
+    <color name="btn_logut_bg">#f4e403</color>
+    <color name="btc_list_bg">#da2029</color>
+    <color name="ethereum_list_bg">#d4af37</color>
+    <color name="ripple_list_bg">#cfb53b</color>
+    <color name="litecoin_list_bg">#c5b358</color>
+    <color name="monero_list_bg">#996515</color>
+    <color name="neo_list_bg">#c0b950</color>
+</resources>
