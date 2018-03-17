@@ -2,6 +2,7 @@ package info.lansachia.cryptoinvest;
 
 /**
  * Class is the model for the data user will save onto firebase to track a particular currency
+ *
  * @author  Landry Achia
  */
 

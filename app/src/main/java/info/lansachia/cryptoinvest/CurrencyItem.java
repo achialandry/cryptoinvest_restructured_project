@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 /**
  * Class to for all list of currencies which implements serializable interface
+ *
  * @author  Landry Achia
  */
 

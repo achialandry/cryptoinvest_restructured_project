@@ -8,6 +8,7 @@ import java.util.List;
 
 /**
  * Currency Filter class to filter currencies based on user entry from list of all currencies
+ *
  * @author  Landry Achia
  */
 public class CurrencyFilter extends Filter {

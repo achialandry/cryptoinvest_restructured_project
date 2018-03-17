@@ -15,13 +15,13 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.List;
 
 /**
- * @author  Landry Achia
  *
  * This Class will run a job once conditions are met with the constraints
  * As soon as user device boots. it will generate currency list and compare to
  * Firebase user data for authenticated user
  * a notification showing updates about price changes for currency user is tracking
  *
+ * @author  Landry Achia
  */
 
 public class NotificationJobs extends JobService {

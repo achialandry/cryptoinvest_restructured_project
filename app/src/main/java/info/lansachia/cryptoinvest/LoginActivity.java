@@ -22,8 +22,8 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
 /**
- * @author  Landry Achia
  * A login screen that offers login via email/password.
+ * @author  Landry Achia
  */
 public class LoginActivity extends AppCompatActivity  {
 

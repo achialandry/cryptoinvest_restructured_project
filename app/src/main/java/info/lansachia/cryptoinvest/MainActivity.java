@@ -23,10 +23,10 @@ import com.firebase.jobdispatcher.Trigger;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author  Landry Achia
  * Main activity that host other fragments and carries the main business logic and
  * content of the application
  * This activity host the fragments for currency list, and more..
+ * @author  Landry Achia
  */
 
 public class MainActivity extends AppCompatActivity {

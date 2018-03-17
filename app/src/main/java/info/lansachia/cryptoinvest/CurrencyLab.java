@@ -18,10 +18,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author  Landry Achia
- *
  * This class acts as singleton to make available data to all other fragments and
  * classes requiring to use currency item queried from API
+ *
+ * @author  Landry Achia
  */
 
 public class CurrencyLab {

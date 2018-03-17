@@ -7,10 +7,10 @@ import com.google.firebase.database.DatabaseException;
 import com.google.firebase.database.DatabaseReference;
 
 /**
- * @author  Landry Achia
- *
  * Class is a notification helper class which will handle the saving or pushing
  * of data user wants to track onto firebase
+ *
+ * @author  Landry Achia
  */
 
 public class FirebaseDbNotificationHelper {

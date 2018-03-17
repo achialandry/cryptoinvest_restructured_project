@@ -21,6 +21,7 @@ import java.util.List;
 /**
  * This Class is the adapter to populate the recycler view with data from currency Item
  * and also implements the search on the fragment hosting the recycler view
+ * 
  * @author  Landry Achia
  */
 

@@ -21,10 +21,10 @@ import com.google.firebase.database.FirebaseDatabase;
 import java.util.List;
 
 /**
- * @author  Landry Achia
- *
  * This fragment handles the setting user will want to make tracking for a particular
  * currency
+ *
+ *  @author  Landry Achia
  */
 
 public class NotificationSettingFragment extends Fragment {

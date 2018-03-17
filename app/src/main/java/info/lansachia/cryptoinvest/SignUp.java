@@ -21,6 +21,7 @@ import com.google.firebase.auth.FirebaseAuth;
 
 /**
  * This activity class handles the signing up process for a new user.
+ *
  * @author  Landry Achia
  */
 public class SignUp extends AppCompatActivity {

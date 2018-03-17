@@ -10,10 +10,11 @@ import android.os.Build;
 import android.support.v4.app.NotificationCompat;
 
 /**
- * @author  Landry Achia
  *
  * This Class manages and controls the logic to how notifications will be sent
  * the channels for notifications, text, tone, vibrations for notifications
+ *
+ * @author  Landry Achia
  */
 
 public class NotificationHelper extends ContextWrapper {
